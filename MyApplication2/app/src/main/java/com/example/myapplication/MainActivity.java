@@ -20,7 +20,7 @@ public class MainActivity extends AppCompatActivity {
         TextView tv = findViewById(R.id.sample_text);
         tv.setText("wenjunlian");
         tv.setText("123");
-        tv.setText("wenjunlian123456");
+        tv.setText("00000000");
         tv.setText("wen");
 tv.setText("1111111111111111111");
     }
