@@ -22,7 +22,6 @@ public class MainActivity extends AppCompatActivity {
         tv.setText("123456");
         tv.setText("wenjunlian123456");
         tv.setText("wen");
-        tv.setText("jialediandongxi");
     }
 
     /**
