@@ -20,8 +20,9 @@ public class MainActivity extends AppCompatActivity {
         TextView tv = findViewById(R.id.sample_text);
         tv.setText("wenjunlian");
         tv.setText("123456");
-        tv.setText("wjl");
+        tv.setText("wenjunlian123456");
         tv.setText("wen");
+        tv.setText("jialediandongxi");
     }
 
     /**
